@@ -1,0 +1,13 @@
+#container{
+	border:groove 4px #000099;
+
+}
+
+#som{
+	font-family:"Courier New", Courier, monospace;
+	font-size:large;
+}
+
+body{
+	background-color: lightgray;
+}
