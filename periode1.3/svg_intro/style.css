@@ -1,0 +1,13 @@
+#container{
+  width: 800px;
+  margin: auto;
+}
+
+#mySvg{
+  background-color: aliceblue;
+  border: 1px black solid;
+}
+
+#myLine{
+  stroke:black;
+}
