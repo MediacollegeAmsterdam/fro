@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	width="1630px" height="820px" >
-
-<rect id="svgEditorBackground" x="0" y="0" width="1630" height="820" style="fill: none; stroke: none;"/>
-
-<polyline stroke="black" stroke-width="1" id="e3_polyline" style="fill: yellow;"
-	points="119 244 256 176 457 345 660 135 837 356 701 679 382 673 311 715 225 632 130 690 120 245 121 245" />
-<line x1="500" y1="500" x2="200" y2="200" style="stroke:rgb(255,0,0);stroke-width:2" />
-</svg>

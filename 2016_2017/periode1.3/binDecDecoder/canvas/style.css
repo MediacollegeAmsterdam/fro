@@ -1,0 +1,44 @@
+@font-face {
+    font-family: myFont;
+    src: url(space_age.ttf);
+}
+
+@font-face {
+    font-family: digital;
+    src: url(fanzine.ttf);
+}
+
+
+body{
+  font-size: 22px;
+  font-family: myFont;
+  background-color: white;
+  background-image: url(space.jpg);
+}
+
+#container{
+  color:black;
+  padding: 20px;
+  background-color: lightgray;
+  width: 1000px;
+  margin: 100px auto;
+  text-align: center;
+  border: 2px inset black;
+}
+
+#canvas{
+  border: 2px black solid;
+  background-color: white;
+}
+
+#binField,#decField,#hexField{
+  width:400px;
+  font-size: 30px;
+  font-family: monospace;
+  text-align: center;
+}
+
+#myTable{
+  width: 800px;
+  margin:50px auto;
+}
