@@ -1,0 +1,13 @@
+body{
+  background-color: gray;
+}
+
+#container{
+  width: 800px;
+  margin: auto;
+}
+
+#canvas{
+  background-color: aliceBlue;
+  border: 2px solid black;
+}
