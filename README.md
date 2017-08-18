@@ -5,4 +5,4 @@
 + Jelle Sjollema
 + Theo den Blanken
 
-![Mediacollege Amsterdam](https://amsterdamartcenter.nl/wp-content/uploads/2016/05/Media-college-Amsterdam-Amsterdam-Art-Center.jpg "Mediacollege Amsterdam")
+![Mediacollege Amsterdam](http://pbs.twimg.com/profile_images/1113728606/mediacollege_amsterdam1_eps_normal.png"Mediacollege Amsterdam")
