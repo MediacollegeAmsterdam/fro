@@ -1,1 +1,5 @@
-FRO les 3B. <ul><ol> start CSS
+# FRO les 3B.  	&lt;ul&gt;&lt;ol&gt; start CSS
+
+Voorbeeld HTML5 Basic Template
+  
+  
